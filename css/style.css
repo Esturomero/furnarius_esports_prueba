@@ -16,6 +16,19 @@ h1 {
 
    
 }
+.hola-mundo:hover{
+    background-color: cornflowerblue;
+    transition: .3s;
+    
+}
+
+h1_hover{
+    color: darkslateblue;
+    transform: skew(-15deg);
+    transition: .3s;
+}
+
+
 .flex-index{  
     display:flex ;
     flex-wrap: wrap;
