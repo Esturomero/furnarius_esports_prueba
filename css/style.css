@@ -7,3 +7,15 @@ h1{
     font-family: sans-serif;
     color: rgb(110, 219, 219);
 }
+.hola-mundo{
+    background-color: blueviolet;
+    text-align: center;
+    max-width: 650px;
+    margin: 15px auto;
+}
+
+@media (max-width: 550px){
+    .hola-mundo{
+        background-color: rgb(192, 65, 132);
+    }
+}
