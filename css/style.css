@@ -14,7 +14,7 @@ h1{
     margin: 15px auto;
 }
 
-@media (max-width: 550px){
+@media (max-width: 560px){
     .hola-mundo{
         background-color: rgb(192, 65, 132);
     }
