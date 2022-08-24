@@ -1,21 +1,22 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-h1{
+h1 {
     font-family: sans-serif;
     color: rgb(110, 219, 219);
 }
-.hola-mundo{
+
+.hola-mundo {
     background-color: blueviolet;
     text-align: center;
     max-width: 650px;
     margin: 15px auto;
 }
 
-@media (max-width: 560px){
-    .hola-mundo{
+@media (max-width: 650px) {
+    .hola-mundo {
         background-color: rgb(192, 65, 132);
     }
 }
