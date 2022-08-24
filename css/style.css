@@ -22,7 +22,7 @@ h1 {
     
 }
 
-h1_hover{
+h1:hover{
     color: darkslateblue;
     transform: skew(-15deg);
     transition: .3s;
